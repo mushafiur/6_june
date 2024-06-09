@@ -1,2 +1,2 @@
 # 6_june
-6june hw
+https://mushafiur.github.io/6_june/

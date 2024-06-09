@@ -1,0 +1,12 @@
+h1{
+	text-align: center;
+}
+.box{
+	margin-bottom:5px;
+/*	width:100px;*/
+	height: 100px;
+	background-color:red;
+}
+.h_300{
+	min-height:300px;
+}
